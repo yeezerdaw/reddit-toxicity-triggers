@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.csv
+*.json
+*.log
+data/
